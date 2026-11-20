@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="136.063px"
+   height="136.063px"
+   viewBox="305.838 160.614 136.063 136.063"
+   id="svg74"
+   sodipodi:docname="debut2026_logo.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.9898722"
+     inkscape:cx="68.031502"
+     inkscape:cy="68.031502"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer1000" />
+  <defs
+     id="defs74">
+    <style
+       id="style1">
+      text, tspan, textPath {
+        font-family: 'Century Gothic', Futura, 'Trebuchet MS', sans-serif;
+      }
+    </style>
+    <!-- Пути для текста по кривой перенесены в defs чтобы Figma их видела -->
+    <path
+       id="path7"
+       d="m 373.9449,180.85917 a 48.1891,48.1891 0 0 0 -48.1891,48.189 48.1891,48.1891 0 1 0 48.1891,-48.189 z" />
+    <path
+       id="path7-9"
+       d="m 374.10604,183.39818 a 38.499119,38.720581 0 0 1 38.49912,38.7205 38.499119,38.720581 0 1 1 -38.49912,-38.7205 z" />
+  </defs>
+  <g
+     id="Layer1000">
+    <!-- Внешний белый круг -->
+    <path
+       d="m 373.86984,160.61417 a 68.0314,68.0314 0 0 1 68.0314,68.0314 68.0314,68.0314 0 1 1 -68.0314,-68.0314 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#1b1918;stroke-width:0.5669;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path6" />
+    <!-- Средний серый круг -->
+    <path
+       d="m 373.9449,180.85917 a 48.1891,48.1891 0 0 0 -48.1891,48.189 48.1891,48.1891 0 1 0 48.1891,-48.189 z"
+       style="fill:#eeeeee;fill-rule:evenodd"
+       id="path7-visible" />
+    <!-- Внутренний серый круг -->
+    <path
+       d="m 374.10604,183.39818 a 38.499119,38.720581 0 0 1 38.49912,38.7205 38.499119,38.720581 0 1 1 -38.49912,-38.7205 z"
+       style="fill:#eeeeee;fill-opacity:1;fill-rule:evenodd;stroke-width:0.801213"
+       id="path7-9-visible" />
+    <g
+       id="Layer1002">
+      <path
+         d="  M385.7230,250.1031 L368.2769,236.2819 L359.0220,240.4171 C361.7079,238.4036 363.8775,236.3100 365.5772,234.1431 L345.2828,234.0604 L376.1722,258.6671 L385.7230,250.1031 Z"
+         style="fill-rule:evenodd;fill:#ffffff;"
+         id="path8" />
+      <path
+         d="  M376.8406,239.8192 C376.0554,240.0812 388.0970,249.2433 388.0970,249.2433 L404.0651,234.0604 L382.5998,234.0604 C382.5998,234.0604 377.6261,239.5576 376.8406,239.8192 Z"
+         style="fill-rule:evenodd;fill:#ffffff;"
+         id="path9" />
+      <g
+         id="Layer1003">
+        <path
+           d="  M358.2368,192.5127 L395.9322,223.9255 L359.0221,240.4173 C376.6166,227.2267 372.0658,210.5914 358.2368,192.5127 Z"
+           style="fill-rule:evenodd;fill:#1468b3;"
+           id="path10" />
+        <path
+           d="  M345.2829,234.0604 L365.5771,234.1431 L385.7230,250.1029 L376.1722,258.6671 L345.2829,234.0604 Z"
+           style="stroke-width:1.0839;stroke:#1468b3;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;fill:none;"
+           id="path11" />
+        <path
+           d="  M382.5998,234.0604 L404.0653,234.0604 L388.0971,249.2434 C388.0971,249.2434 376.0554,240.0811 376.8408,239.8193 C377.6261,239.5576 382.5998,234.0604 382.5998,234.0604 Z"
+           style="stroke-width:1.0839;stroke:#1468b3;stroke-dasharray:none;stroke-linecap:butt;stroke-linejoin:miter;fill:none;"
+           id="path12" />
+      </g>
+    </g>
+    <!-- Надпись "ФЕСТИВАЛЬ В «АНИЧКОВОМ»" по нижней дуге -->
+    <text
+       id="text18"
+       font-family="'Century Gothic', Futura, 'Trebuchet MS', sans-serif"
+       font-size="7.00001"
+       transform="matrix(-1.0410641,0,0,-1,763.42375,449.16046)"><textPath
+         xlink:href="#path7-9"
+         startOffset="50%"
+         id="textPath2"
+         text-anchor="middle"
+         fill="#1468b3">ФЕСТИВАЛЬ В «АНИЧКОВОМ»</textPath></text>
+    <!-- Надпись "2026" -->
+    <text
+       x="343.948"
+       y="231.72971"
+       id="text20"
+       font-family="'Century Gothic', Futura, 'Trebuchet MS', sans-serif"
+       font-size="11px"
+       fill="#00ccff">2027</text>
+    <!-- Надпись "ДЕБЮТ ЮНОГО ПРОГРАММИСТА" по верхней дуге -->
+    <text
+       id="text19"
+       font-family="'Century Gothic', Futura, 'Trebuchet MS', sans-serif"
+       font-size="7.29477"
+       transform="matrix(0.95679225,0,0,0.96317063,16.356253,5.9085761)"><textPath
+         xlink:href="#path7"
+         startOffset="50%"
+         id="textPath3"
+         text-anchor="middle"
+         fill="#1468b3">ДЕБЮТ ЮНОГО ПРОГРАММИСТА</textPath></text>
+  </g>
+</svg>
