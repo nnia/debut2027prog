@@ -1,0 +1,133 @@
+{
+  "year": 2027,
+  "contest": {
+    "shortName": "Дебют юного программиста",
+    "brandLine2": "программиста\u00a02027",
+    "pageTitle": "Дебют юного программиста 2027 — конкурс программных проектов в Аничковом дворце",
+    "logoAlt": "Логотип конкурса «Дебют юного программиста 2027»",
+    "footerTitle": "Дебют юного программиста 2027"
+  },
+  "links": {
+    "siteUrl": "https://debutprog.ru",
+    "registrationForm": "https://forms.yandex.ru/u/698857b3d046886c8b88ac4d/",
+    "organizer": "https://anichkov.ru/",
+    "organizerDisplay": "anichkov.ru",
+    "infoLetter": "https://anichkov.ru/",
+    "mapsRoute": "https://yandex.ru/maps/?text=Невский%20проспект%2C%2039%2C%20Санкт-Петербург",
+    "regulationPdf": "https://anichkov.ru/official/poloj2026/polog_fest_inf_tehnolog_v_anich_2026.pdf"
+  },
+  "dates": {
+    "registrationDeadline": {
+      "display": "12 апреля 2027",
+      "displayShort": "до 12 апреля",
+      "displayWithYear": "12 апреля 2027 года",
+      "dayMonth": "12 апреля"
+    },
+    "final": {
+      "display": "20 апреля 2027"
+    },
+    "invitationBy": {
+      "display": "16 апреля 2027"
+    },
+    "resultsBy": {
+      "display": "20 мая 2027"
+    },
+    "stages": [
+      {
+        "range": "1 марта — 12 апреля 2027"
+      },
+      {
+        "range": "13 апреля — 16 апреля 2027"
+      },
+      {
+        "range": "20 апреля 2027"
+      }
+    ]
+  },
+  "venue": {
+    "name": "Аничков дворец",
+    "short": "Невский, 39 В",
+    "addressHtml": "Санкт-Петербург, Невский проспект, д.&nbsp;39, лит.&nbsp;В<br>\n              Отдел техники ГБНОУ «СПБ ГДТЮ»",
+    "footer": "Невский пр., 39 лит. В, СПб",
+    "mapTitle": "Карта: Аничков дворец, Невский проспект, 39",
+    "mapEmbed": "https://yandex.ru/map-widget/v1/?ll=30.341744%2C59.933667&mode=search&sll=30.341744%2C59.933667&sspn=0.05%2C0.02&text=%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%2C%2039%2C%20%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&z=16"
+  },
+  "contacts": {
+    "primaryEmail": "debut2027prog@mail.ru",
+    "primaryPhone": {
+      "display": "+7 (951) 643-11-15",
+      "tel": "+79516431115"
+    },
+    "committee": [
+      {
+        "name": "Егорова Анна Николаевна",
+        "role": "Председатель жюри конкурса. Педагог дополнительного образования отдела техники ГБНОУ «СПБ ГДТЮ».",
+        "emails": ["debut2027prog@mail.ru", "nnia@mail.ru"],
+        "phones": [
+          {
+            "display": "+7 (951) 643-11-15",
+            "tel": "+79516431115"
+          }
+        ]
+      },
+      {
+        "name": "Богомолова Александра Викторовна",
+        "role": "Заведующий сектором отдела техники ГБНОУ «СПБ ГДТЮ».",
+        "phones": [
+          {
+            "display": "+7 (812) 310-72-73",
+            "tel": "+78123107273"
+          }
+        ]
+      }
+    ]
+  },
+  "documents": [
+    {
+      "href": "links.regulationPdf",
+      "title": "Положение о фестивале «В Аничковом» 2027",
+      "description": "Главный нормативный документ. Регламент, состав оргкомитета, критерии."
+    },
+    {
+      "href": "links.infoLetter",
+      "title": "Информационное письмо «Дебют юного программиста»",
+      "description": "Конкретика по конкурсу: даты, номинации, контакты, требования."
+    },
+    {
+      "href": "links.regulationPdf#page=6",
+      "title": "Согласие на обработку ПД (несовершеннолетние)",
+      "description": "Приложение №1 к Положению. Заполняет родитель или законный представитель."
+    },
+    {
+      "href": "links.regulationPdf#page=8",
+      "title": "Согласие на обработку ПД (совершеннолетние)",
+      "description": "Приложение №1 к Положению. Заполняет участник самостоятельно."
+    },
+    {
+      "href": "links.regulationPdf#page=10",
+      "title": "Согласие наставника",
+      "description": "Приложение №1 к Положению. Заполняет педагог-руководитель участника."
+    },
+    {
+      "href": "links.regulationPdf#page=18",
+      "title": "Справка «первый год обучения»",
+      "description": "Приложение №9 к Положению. Образец справки от учреждения."
+    }
+  ],
+  "snippets": {
+    "metaDescription": "Открытый Санкт-Петербургский конкурс «Дебют юного программиста» {{year}}. Бесплатное участие для школьников 7–18 лет. Финал — {{dates.final.display}} года в Аничковом дворце. Регистрация открыта до {{dates.registrationDeadline.dayMonth}}.",
+    "ogTitle": "Дебют юного программиста {{year}}",
+    "ogDescription": "Открытый Санкт-Петербургский конкурс программных проектов. 7–18 лет. Финал — {{dates.final.display}} в Аничковом дворце. Бесплатно.",
+    "invitationCallout": "Высылается на e-mail, указанный при регистрации, не позднее {{dates.invitationBy.display}} года. Время выступления уточняется индивидуально.",
+    "applyStep1": "Регистрация открыта до&nbsp;{{dates.registrationDeadline.displayWithYear}}. Форма заполняется педагогом-руководителем участника.",
+    "applyStep3Intro": "На <a href=\"mailto:{{contacts.primaryEmail}}\">{{contacts.primaryEmail}}</a> одним письмом отправляются: материалы проекта и сканы согласий на обработку персональных данных (для участника и наставника). Соблюдайте требования к теме письма и имени файла — они указаны ниже.",
+    "applyStep4": "Не позднее&nbsp;{{dates.invitationBy.display}} года на e-mail, указанный при регистрации, придёт либо приглашение, либо краткое пояснение причины отказа.",
+    "applyNoteLate": "Для опоздавших: форма открыта до начала конкурса, но заявки после {{dates.registrationDeadline.dayMonth}} рассматриваются только по индивидуальному решению жюри и при наличии свободных мест.",
+    "awardsNote": "Жюри вправе определять количество дипломов в каждой номинации (например, выдать несколько дипломов&nbsp;I степени или ни одного). Итоги публикуются на сайте организатора не позднее&nbsp;{{dates.resultsBy.display}} года.",
+    "finalCta": "Готовы заявить о себе? Подайте заявку до&nbsp;{{dates.registrationDeadline.displayWithYear}}.",
+    "faqLateRegistration": "Форма регистрации остаётся открытой вплоть до начала конкурса. Однако приём и обработка заявок, поступивших позднее {{dates.registrationDeadline.display}}, осуществляется только по индивидуальному решению жюри и при наличии свободных мест.",
+    "faqLateEmail": "Если ты планируешь подать заявку позже срока — напиши заранее на <code>{{contacts.primaryEmail}}</code>, чтобы оргкомитет был в курсе.",
+    "faqResults": "Итоги публикуются на официальном сайте организатора <a href=\"{{links.organizer}}\" target=\"_blank\" rel=\"noopener\">{{links.organizerDisplay}}</a> не позднее {{dates.resultsBy.display}} года, либо доводятся до участников ранее в индивидуальном порядке по электронной почте.",
+    "footerCopyright": "© {{year}} ГБНОУ «СПБ&nbsp;ГДТЮ». Сайт носит информационный характер. Оригиналы документов и итоговые протоколы публикуются на <a href=\"{{links.organizer}}\" target=\"_blank\" rel=\"noopener\" style=\"color:inherit;text-decoration:underline;\">{{links.organizerDisplay}}</a>."
+  }
+}
